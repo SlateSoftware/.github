@@ -1,8 +1,9 @@
-# Slate
+![Slate Banner](/Banner 1080p.png)
 
-The vision for Slate is to create consistent, easy to use, and sleek user experiences through software and hardware.
+The vision for Slate is to create consistent, easy to use, unique, and sleek user experiences through software and hardware. Design is an extremely important part of this organization.
 
 ### Main points we keep:
 - Consistent design
 - Free & easy to use
 - Accessible
+- Open-source
